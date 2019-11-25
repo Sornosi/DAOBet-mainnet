@@ -7,3 +7,5 @@
 167.71.49.104:9876
 daobet.eossweden.org:7876
 daobet.ozmint.org:9876
+https://daobet.eosdac.io/
+daobet.eosdac.io:59876
