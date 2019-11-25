@@ -1,13 +1,24 @@
 // full-nodes
 
-46.101.100.135:9876
-46.101.190.246:9876
-46.101.100.128:9876
-46.101.100.161:9876
-167.71.49.104:9876
-daobet.eossweden.org:7876
-daobet.ozmint.org:9876
+p2p-peer-address = 46.101.100.135:9876
+p2p-peer-address = 46.101.190.246:9876
+p2p-peer-address = 46.101.100.128:9876
+p2p-peer-address = 46.101.100.161:9876
+p2p-peer-address = 167.71.49.104:9876
+p2p-peer-address = daobet.eossweden.org:7876
+p2p-peer-address = daobet.ozmint.org:9876
+p2p-peer-address = daobet.eosdac.io:59876
+p2p-peer-address = daobet.eosrio.io:8102
+p2p-peer-address = 52.196.223.251:9876
+p2p-peer-address = daobet.eosdac.io:59876
+p2p-peer-address = daobet.hkeos.com:38888
+
+// APIs
+
 https://daobet.eosdac.io/
-daobet.eosdac.io:59876
-daobet.hkeos.com:38888
-52.196.223.251:9876
+https://daobet.eosrio.io/
+https://daobet.eossweden.org/
+
+// History (v2 - hyperion)
+
+https://daobet.eossweden.org/v2/docs
