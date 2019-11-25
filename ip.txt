@@ -9,3 +9,4 @@ daobet.eossweden.org:7876
 daobet.ozmint.org:9876
 https://daobet.eosdac.io/
 daobet.eosdac.io:59876
+daobet.hkeos.com:38888
