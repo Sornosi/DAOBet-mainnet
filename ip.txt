@@ -13,6 +13,7 @@ p2p-peer-address = 52.196.223.251:9876
 p2p-peer-address = daobet.hkeos.com:38888
 p2p-peer-address = daobet.eossweden.eu:4812
 p2p-peer-address = daobet.zigsolution.com:4892
+p2p-peer-address = daobet.westaking.io:59876
 
 // APIs
 
@@ -21,6 +22,7 @@ https://daobet.eosrio.io/
 https://daobet.eossweden.org/
 http://daobet.eossweden.eu/
 https://daobet.zigsolution.com/
+https://daobet.westaking.io
 
 // History (v2 - hyperion)
 
