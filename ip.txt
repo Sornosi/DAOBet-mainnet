@@ -19,7 +19,7 @@ p2p-peer-address = daobet.zigsolution.com:4892
 https://daobet.eosdac.io/
 https://daobet.eosrio.io/
 https://daobet.eossweden.org/
-http://daobet.eossweden.eu/
+https://daobet.eossweden.eu/
 https://daobet.zigsolution.com/
 
 // History (v2 - hyperion)
