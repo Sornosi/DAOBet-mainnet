@@ -14,6 +14,7 @@ p2p-peer-address = daobet.hkeos.com:38888
 p2p-peer-address = daobet.eossweden.eu:4812
 p2p-peer-address = daobet.zigsolution.com:4892
 p2p-peer-address = daobet.westaking.io:59876
+p2p-peer-address = daobet.mintercap.com:9876
 
 // APIs
 
