@@ -20,7 +20,7 @@ p2p-peer-address = daobet.westaking.io:59876
 https://daobet.eosdac.io/
 https://daobet.eosrio.io/
 https://daobet.eossweden.org/
-http://daobet.eossweden.eu/
+https://daobet.eossweden.eu/
 https://daobet.zigsolution.com/
 https://daobet.westaking.io
 
