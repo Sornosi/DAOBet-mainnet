@@ -15,6 +15,7 @@ p2p-peer-address = daobet.eossweden.eu:4812
 p2p-peer-address = daobet.zigsolution.com:4892
 p2p-peer-address = daobet.westaking.io:59876
 p2p-peer-address = daobet.mintercap.com:9876
+p2p-peer-address = daobet.everstake.one:9876
 
 // APIs
 
@@ -24,6 +25,7 @@ https://daobet.eossweden.org/
 https://daobet.eossweden.eu/
 https://daobet.zigsolution.com/
 https://daobet.westaking.io
+https://daobet-api.everstake.one/
 
 // History (v2 - hyperion)
 
