@@ -17,6 +17,7 @@ p2p-peer-address = daobet.westaking.io:59876
 p2p-peer-address = daobet.mintercap.com:9876
 p2p-peer-address = daobet-p2p.kaiserlabs.at:8890
 p2p-peer-address = daobet.everstake.one:9876
+p2p-peer-address = s1.daobet.easy2stake.com:9876
 
 
 // APIs
