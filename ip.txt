@@ -18,6 +18,7 @@ p2p-peer-address = daobet.mintercap.com:9876
 p2p-peer-address = daobet-p2p.kaiserlabs.at:8890
 p2p-peer-address = daobet.everstake.one:9876
 p2p-peer-address = s1.daobet.easy2stake.com:9876
+p2p-peer-address = daobet.eos.barcelona:9176
 
 
 // APIs
@@ -30,6 +31,7 @@ https://daobet.zigsolution.com/
 https://daobet.westaking.io
 https://daobet-api.kaiserlabs.at
 https://daobet-api.everstake.one/
+https://daobet-api.eos.barcelona/
 
 // History (v2 - hyperion)
 
