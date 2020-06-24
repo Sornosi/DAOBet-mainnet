@@ -20,6 +20,7 @@ p2p-peer-address = daobet.everstake.one:9876
 p2p-peer-address = s1.daobet.easy2stake.com:9876
 p2p-peer-address = daobet.eos.barcelona:9176
 p2p-peer-address = 44.228.106.78:9876
+p2p-peer-address = daobet.telosunlimited.io:9876
 
 
 // APIs
@@ -33,6 +34,7 @@ https://daobet.westaking.io
 https://daobet-api.kaiserlabs.at
 https://daobet-api.everstake.one/
 https://daobet-api.eos.barcelona/
+http://api.daobet.telosunlimited.io/
 
 // History (v2 - hyperion)
 
