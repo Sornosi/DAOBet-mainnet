@@ -21,7 +21,7 @@ p2p-peer-address = s1.daobet.easy2stake.com:9876
 p2p-peer-address = daobet.eos.barcelona:9176
 p2p-peer-address = 44.228.106.78:9876
 p2p-peer-address = daobet.telosunlimited.io:9876
-
+p2p-peer-address = 156.69.107.184:9876
 
 // APIs
 
