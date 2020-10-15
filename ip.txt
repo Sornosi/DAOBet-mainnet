@@ -1,10 +1,10 @@
 // full-nodes
 
-p2p-peer-address = 46.101.100.135:9876
-p2p-peer-address = 46.101.190.246:9876
-p2p-peer-address = 46.101.100.128:9876
-p2p-peer-address = 46.101.100.161:9876
-p2p-peer-address = 167.71.49.104:9876
+p2p-peer-address = 46.101.100.135:9879
+p2p-peer-address = 46.101.190.246:9879
+p2p-peer-address = 46.101.100.128:9879
+p2p-peer-address = 46.101.100.161:9879
+p2p-peer-address = 167.71.49.104:9879
 p2p-peer-address = daobet.eossweden.org:7876
 p2p-peer-address = daobet.ozmint.org:9876
 p2p-peer-address = daobet.eosdac.io:59876
