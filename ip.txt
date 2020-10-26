@@ -26,7 +26,6 @@ p2p-peer-address = 54.212.190.35:9876
 p2p-peer-address = 156.69.107.184:9876
 p2p-peer-address = 95.217.21.166:9871
 p2p-peer-address = 18.185.247.101:9876
-p2p-peer-address = daobet-p2p.kaiserlabs.at:9879
 
 // APIs
 
