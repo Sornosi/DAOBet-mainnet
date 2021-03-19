@@ -5,27 +5,13 @@ p2p-peer-address = 46.101.190.246:9879
 p2p-peer-address = 46.101.100.128:9879
 p2p-peer-address = 46.101.100.161:9879
 p2p-peer-address = 167.71.49.104:9879
-p2p-peer-address = daobet.eossweden.org:7876
-p2p-peer-address = daobet.ozmint.org:9876
+p2p-peer-address = 167.172.170.74:9876
 p2p-peer-address = daobet.eosdac.io:59876
 p2p-peer-address = daobet.eosrio.io:8102
-p2p-peer-address = 52.196.223.251:9876
 p2p-peer-address = 161.97.69.244:9876
-p2p-peer-address = daobet.hkeos.com:38888
-p2p-peer-address = daobet.eossweden.eu:4812
-p2p-peer-address = daobet.zigsolution.com:4892
-p2p-peer-address = daobet.westaking.io:59876
-p2p-peer-address = daobet.mintercap.com:9876
 p2p-peer-address = daobet-p2p.kaiserlabs.at:9879
 p2p-peer-address = daobet.everstake.one:9876
 p2p-peer-address = s1.daobet.easy2stake.com:9876
-p2p-peer-address = daobet.eos.barcelona:9176
-p2p-peer-address = 44.228.106.78:9876
-p2p-peer-address = daobet.telosunlimited.io:9876
-p2p-peer-address = 54.212.190.35:9876
-p2p-peer-address = 156.69.107.184:9876
-p2p-peer-address = 95.217.21.166:9871
-p2p-peer-address = 18.185.247.101:9876
 
 // APIs
 
