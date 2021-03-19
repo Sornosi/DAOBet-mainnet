@@ -1,8 +1,31 @@
 // full-nodes
 
-46.101.100.135:9876
-46.101.190.246:9876
-46.101.100.128:9876
-46.101.100.161:9876
-167.71.49.104:9876
-daobet.eossweden.org:7876
+p2p-peer-address = 46.101.100.135:9879
+p2p-peer-address = 46.101.190.246:9879
+p2p-peer-address = 46.101.100.128:9879
+p2p-peer-address = 46.101.100.161:9879
+p2p-peer-address = 167.71.49.104:9879
+p2p-peer-address = 167.172.170.74:9876
+p2p-peer-address = daobet.eosdac.io:59876
+p2p-peer-address = daobet.eosrio.io:8102
+p2p-peer-address = 161.97.69.244:9876
+p2p-peer-address = daobet-p2p.kaiserlabs.at:9879
+p2p-peer-address = daobet.everstake.one:9876
+p2p-peer-address = s1.daobet.easy2stake.com:9876
+
+// APIs
+
+https://daobet.eosdac.io/
+https://daobet.eosrio.io/
+https://daobet.eossweden.org/
+https://daobet.eossweden.eu/
+https://daobet.zigsolution.com/
+https://daobet.westaking.io
+https://daobet-api.kaiserlabs.at
+https://daobet-api.everstake.one/
+https://daobet-api.eos.barcelona/
+http://api.daobet.telosunlimited.io/
+
+// History (v2 - hyperion)
+
+https://daobet.eossweden.org/v2/docs
